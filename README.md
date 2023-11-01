@@ -17,7 +17,7 @@ I am a junior developer.
     <img width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-    <img width=40 heigth=40 src="https://assets.codegrip.tech/wp-content/uploads/2021/09/28184216/Pl-Sql_Logo.png"/>
+    <img width=40 heigth=40 src="https://www.oracle.com/a/ocom/img/pl-sql.svg"/>
     <img width=40 heigth=40 src="https://github.com/ggiannas/ggiannas/assets/44242707/3dadf0ba-6e59-4891-a97c-934e346e548b"/> 
     <img width=40 heigth=40 src="https://www.appeon.com/sites/default/files/2022-07/home/PowerBuilder.svg"/>     
     <img width=40 heigth=40 src="https://github.com/ggiannas/ggiannas/assets/44242707/2b898478-6d67-452c-b871-8e8cd8d87389"/>
