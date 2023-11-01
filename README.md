@@ -21,11 +21,11 @@ I am a junior developer.
     <img width=40 heigth=40 src="https://github.com/ggiannas/ggiannas/assets/44242707/3dadf0ba-6e59-4891-a97c-934e346e548b"/> 
     <img width=40 heigth=40 src="https://www.appeon.com/sites/default/files/2022-07/home/PowerBuilder.svg"/>     
     <img width=40 heigth=40 src="https://github.com/ggiannas/ggiannas/assets/44242707/2b898478-6d67-452c-b871-8e8cd8d87389"/>
-    <img width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
     <img width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
     <img width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+    <img width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
           
           
           
