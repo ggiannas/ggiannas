@@ -8,9 +8,9 @@
 
 I am a junior developer.
 
-- I am working as an ERP software devloper for about two years.
+- I am working as an ERP software developer from April 2021 - present.
 
-⚙️Languadges and tools:
+⚙️Languages and tools:
 
   <div>     
     <img width=40 heigth=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
